@@ -397,11 +397,11 @@ It also explains all the odd things we see, such as:
 -   [Bizarre particles](/assets/pdfs/concave-earth/livescience-63692-standard-model-broken-supersymmetry-new-physics.pdf) being issued from the ground upwards at Antarctica, which could be the cause of the rumoured [sky (blue) ice](https://odysee.com/@ConcaveEarth:1/WHAT-HAPPENED-WHEN-THEY-DRILLED-INTO-AN-ICE-WALL-NEAR-THE-FIRMAMENT-IN-THE-60s_:b);
 -   Stars being much harder to detect at altitude, probably due to lower ether density. Geostationary satellites need very sensitive light sensor transducers with higher amplification to see stars ([page 56](https://books.google.ie/books?id=eJGvpKrQFZEC&pg=PA56&lpg=PA56&dq=fundamentals+of+satellite+communication+%22very+sensitive+sensor+transducers%22&source=bl&ots=34WsI4bRrf&sig=OKlfxGDXwGueB-xMbpoT0AjqF6U&hl=en&sa=X&ei=Nf8VVcqEOMetabPFgsgL&ved=0CCAQ6AEwAA#v=onepage&q=fundamentals%20of%20satellite%20communication%20%22very%20sensitive%20sensor%20transducers%22&f=false) of the book, _Fundamentals of Satellite Communication_).
 
-Here is another [list of anomalies](/concave-earth/heliocentric-anomalies.md) easily explained if the earth were a Dyson Sphere.
+Here is another [list of anomalies](/concave-earth/heliocentric-anomalies) easily explained if the earth were a Dyson Sphere.
 
 ### Experiments
 
-There is even hard scientific evidence that the earth slopes upwards; albeit from the very late nineteenth century (1897); namely, the [rectilineator experiment](/concave-earth/rectilineator-experiment.md) and [Tamarack mines](/concave-earth/tamarack-mines.md).
+There is even hard scientific evidence that the earth slopes upwards; albeit from the very late nineteenth century (1897); namely, the [rectilineator experiment](/concave-earth/rectilineator-experiment) and [Tamarack mines](/concave-earth/tamarack-mines.
 
 The rectilineator experiment was criticised because the large group involved initially believed in the concave earth due to a supernatural vision from their leader. However, scientific inspection after the fact cannot fault their methodology or results which are in line with general scientific experiments today.
 
@@ -418,7 +418,7 @@ He supposedly died in prison on 10 December 2021 (not 12 December) of [cardio re
 ### The Future ###
 You probably have some basic inquiries, such as how do satellites work? What is on the outside etc.? These types of questions and more will eventually be answered in book format in the pretty far future. These contain the simple scientific and mathematical model of a concave earth. They will consist of a much needed updated version of the pages on the old website.
 
-Hopefully, I can get this published in a few years, as the evidence of recent Pangea and my transcendental adventures must be published first. For now, I've added the late nineteenth century [experiments](/concave-earth/rectilineator-experiment.md), the public's (and shill's) questions / comments about the topic and my replies from 2013 to 2016, which total around [800 comments](/concave-earth/comments-concave-earth-theory.md) (my opinions may have changed since then).
+Hopefully, I can get this published in a few years, as the evidence of recent Pangea and my transcendental adventures must be published first. For now, I've added the late nineteenth century [experiments](/concave-earth/rectilineator-experiment), the public's (and shill's) questions / comments about the topic and my replies from 2013 to 2016, which total around [800 comments](/concave-earth/comments-concave-earth-theory) (my opinions may have changed since then).
 
 For those who are a bit lacking in the imagination department, I've also put forward [many ideas](/concave-earth/why-hide-the-concave-earth.html) as to why they could have hidden the true shape of the earth from us. This heavily overlaps with transcendentalism.
 
