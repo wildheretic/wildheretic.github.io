@@ -1,1 +1,1 @@
-Wild Heretic's eality research website
+Wild Heretic's reality research website
