@@ -347,7 +347,7 @@ Although all electromagnetic phenomena in the earth cavity are influenced by the
 
 If the correct path of the Sun is to be observed, the Sun's light moves along magnetic field lines, just like iron filings of a bar magnet. This shape (toroidal) isn't too dissimilar to the cosmic background radiation or CMB, pointing to a common attribute in the concave earth they both adhere to.
 
-This is basically [Maxwell's fisheye lens](/assets/pdfs/concave-earth/SaharSahebdivanPhDThesis.pdf) (p77 for illustration) or Luneburg lens or more accurately, a perfect Minano's lens, which in 2013 Minano simulated using microwaves **inside** a [spherical geodesic waveguide](/assets/pdfs/concave-earth/Cedint_MS2013.pdf). This sphere could be a substitute for the concave earth.
+This is essentially [Maxwell's fisheye lens](/assets/pdfs/concave-earth/SaharSahebdivanPhDThesis.pdf) (p77 for illustration) or Luneburg lens or more accurately, a perfect Minano's lens, which in 2013 Minano simulated using microwaves **inside** a [spherical geodesic waveguide](/assets/pdfs/concave-earth/Cedint_MS2013.pdf). This sphere could be a substitute for the concave earth.
 
 <div style="text-align: center;"><figure ><img src="/assets/images/concave-earth/sunlight-in-a-concave-earth.jpg" alt="sunlight in concave earth" ><figcaption class="figure-caption">The path of the Sun dictates that sunlight moves as if in a spherical geodesic waveguide.</figcaption></figure></div>
 
@@ -359,7 +359,7 @@ It is well known that **bound** electrons [absorb and emit light](https://physic
 
 This theory would explain why light has a much longer horizon at night. During the day, sunlight charges the earth creating a higher density of electrons moving up. More electrons, more upward drift of light.
 
-It also could explain why longer wavelengths travel further. It would be a simple phenomenon of scale. Each wavelength is a packet of energy to be absorbed by an electron. The shorter waved light can fit more wavelengths into the same distance, therefore is absorbed by more electrons moving upwards, thereby pushing the shorter waved light higher than a longer wavelength over that same distance.
+It also could explain why longer wavelengths travel further. It would be a simple phenomenon of scale. Each wavelength is a packet of energy to be absorbed by an electron. The shorter waved light can fit more wavelengths into the same distance, therefore is absorbed by more electrons moving upwards, thereby pushing the shorter waved light higher than a longer wavelength.
 
 <div style="text-align: center;"><figure ><img src="/assets/images/concave-earth/horizon-in-a-concave-earth.jpg" alt="horizon in a concave earth" ><figcaption class="figure-caption">Light bends upwards to create the horizon, probably due to upward moving charge.</figcaption></figure></div>
 
