@@ -37,7 +37,7 @@ There is also the problem of language, both modern and old. Online translation t
 
 Many people are completely unaware of the incredible destruction of towns, cities and even whole civilisations due to the very dramatic earth enlargements that occurred in the recent past.
 
-According to the old maps, the most dramatic changes seem to have started sometime in the second half of the fifteenth century, which wiped out the middle east and created the world's second ocean. This is the Atlantic ocean. The Indian ocean was the first to be created a short time before; although, there had been plenty of quite large shifts previously. These sudden earth enlargements continued until 1812; albeit to a continually lesser extent.
+According to the old maps, the most dramatic changes seem to have started sometime in the second half of the fifteenth century, which wiped out the middle east and created the world's second ocean. This is the Atlantic ocean. The Indian ocean was the first to be created a short time before; although, there had been plenty of quite large shifts previously. These sudden earth enlargements repeated until 1812; albeit to a continually lesser extent.
 
 The damage that these alterations caused is not to be underestimated. Even as recently as the eighteenth century, later newspapers reported on [whole countries](https://chroniclingamerica.loc.gov/lccn/sn83045242/1801-08-26/ed-1/seq-3/#date1=1789&sort=date&rows=20&words=40%2C000+Cairo+Grand&searchType=basic&sequence=0&index=0&state=&date2=1963&proxtext=grand+cairo+40000&y=0&x=0&dateFilterType=yearRange&page=1) being [swallowed up](/assets/pdfs/lost-history/1801_history_of_recent_earthquakes.pdf) by the earth! This is unheard of today.
 

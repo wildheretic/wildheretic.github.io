@@ -34,11 +34,11 @@ There is a possible issue that Ber**enstain** Bears was originally **Bern**stein
 
 2. Secondly, [unconfirmed residue](/assets/pdfs/transcendentalism/I-am-one-of-23-scientists.pdf) material was posted of "Bernstein Bears", not "Berenstein". 
 
-	This residue came from a conversation on 4chan started by someone who claimed to be a clone (I assume in our reality) who worked for an employer in the next world up (I assume "astral"). He claimed they were responsible for the major alterations such as the myriad of changes to the human body. The small stuff he said was experiments by Cern linking to D-wave computers. 
+	This residue came from a conversation on 4chan started by someone who claimed to be a clone of a scientist called Jeremy Bernstein (I assume in our reality) who worked for an employer in the next world up (I assume "astral"). He claimed they were responsible for the major alterations such as the myriad of changes to the human body. The small stuff he said was experiments by Cern linking to D-wave computers. 
 
 	He said the world did end in 2012 and the clones were responsible for the smooth running of the new virtual world (this reality) maintained via a quantum computer (I assume in this world). Our consciousnesses were transferred here because god needed more experience. This latter concept actually gels with my transcendental insights.
 	
-	However, I have not seen this residue elsewhere, only "Berenstein Bears". Also, he said the reason for "Berenstain" was to cover up the original "Bernstein". That part doesn't make much sense, unless the clones wanted people to notice the changes. He certainly did. I'll leave it up to you to decide. (There certainly have been a lot of wild claims on the internet on this topic.)
+	However, I have not seen this residue elsewhere, only "Berenstein Bears". Also, he said the reason for "Berenstain" was to cover up the original "Bernstein" so no-one would link the change to himself. That part doesn't make much sense, unless the clones wanted people to notice the changes. He certainly did. I'll leave it up to you to decide. (There certainly have been a lot of wild claims on the internet on this topic.)
 	
 <div style="text-align: center;"><figure><img src="/assets/images/transcendentalism/bernstein-bears1.png" alt="handwritten original of Berenstein Bears" ><figcaption class="figure-caption">Bernstein Bears first image</figcaption></figure></div>
 
