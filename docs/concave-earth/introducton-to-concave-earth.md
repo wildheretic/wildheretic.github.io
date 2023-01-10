@@ -401,7 +401,7 @@ Here is another [list of anomalies](/concave-earth/heliocentric-anomalies) easil
 
 ### Experiments
 
-There is even hard scientific evidence that the earth slopes upwards; albeit from the very late nineteenth century (1897); namely, the [rectilineator experiment](/concave-earth/rectilineator-experiment) and [Tamarack mines](/concave-earth/tamarack-mines.
+There is even hard scientific evidence that the earth slopes upwards; albeit from the very late nineteenth century (1897); namely, the [rectilineator experiment](/concave-earth/rectilineator-experiment) and [Tamarack mines](/concave-earth/tamarack-mines).
 
 The rectilineator experiment was criticised because the large group involved initially believed in the concave earth due to a supernatural vision from their leader. However, scientific inspection after the fact cannot fault their methodology or results which are in line with general scientific experiments today.
 
