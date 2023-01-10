@@ -418,7 +418,7 @@ He supposedly died in prison on 10 December 2021 (not 12 December) of [cardio re
 ### The Future ###
 You probably have some basic inquiries, such as how do satellites work? What is on the outside etc.? These types of questions and more will eventually be answered in book format in the pretty far future. These contain the simple scientific and mathematical model of a concave earth. They will consist of a much needed updated version of the pages on the old website.
 
-Hopefully, I can get this published in a few years, as the evidence of recent Pangea and my transcendental adventures must be published first. For now, I've added the late nineteenth century [experiments](/concave-earth/rectilineator-experiment), the public's (and shill's) questions / comments about the topic and my replies from 2013 to 2016, which total around [800 comments](/concave-earth/comments-concave-earth-theory) (my opinions may have changed since then).
+Hopefully, I can get this published in a few years, as the evidence of recent Pangea and my transcendental adventures must be published first. For now, I've added the late nineteenth century [experiments](/concave-earth/rectilineator-experiment), the public's (and shill's) questions / comments and my replies from 2013 to 2016, which total around [800 comments](/concave-earth/comments-concave-earth-theory) (my opinions may have changed since then).
 
 For those who are a bit lacking in the imagination department, I've also put forward [many ideas](/concave-earth/why-hide-the-concave-earth.html) as to why they could have hidden the true shape of the earth from us. This heavily overlaps with transcendentalism.
 
