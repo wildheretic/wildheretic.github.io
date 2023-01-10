@@ -17,4 +17,4 @@ You may wonder what some of the comments are referring to. The old Concave Earth
 
 Some of my opinions to readers' comments may have also changed considerably since that time. The posts are recorded here for posterity. There will be some interesting links to other websites that are still live.
 
-[Read more](/concave-earth/comments-concave-earth-theory/CET-page-1){: .btn .btn-green .fw-700 }
+[Read more](/concave-earth/comments-concave-earth-theory/cet-page-1){: .btn .btn-green .fw-700 }
