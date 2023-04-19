@@ -1,0 +1,112 @@
+$pink-000: #f77ef1;
+$pink-100: #f967f1;
+$pink-200: #e94ee1;
+$pink-300: #dd2cd4;
+
+
+.index-nav {
+    display: inline;
+    margin-left: auto;
+  margin-right: auto;
+   text-align: center;  
+  }
+  
+  .h1 {
+   color: #100C08;
+   }
+   
+     .h2 {
+   color: #100C08;
+   }
+   
+     .h3 {
+   color: #100C08;
+   }
+   
+     .h4 {
+   color: #100C08;
+   }
+   
+     .h5 {
+   color: #100C08;
+   }
+   
+     .h6 {
+   color: #100C08;
+   }
+  
+.figure-caption {
+    font-size: 14px;
+    font-weight: 600;
+    color: #100C08;
+    margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 25px;
+   text-align: center; 
+     
+  }
+  
+.video {
+     margin: auto;
+     width: 77%;
+  }
+  
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+p { color: #100C08;
+
+}
+
+ul { color: #100C08;
+
+}
+
+summary { color: #100C08;
+
+}
+
+ol { color: #100C08;
+
+}
+
+
+.breadcrumb-nav-list {
+  padding-left: 0;
+  margin-bottom: $sp-3;
+  list-style: none;
+   color: #100C08;
+}
+
+/* p {
+    font-family: "Rockwell";
+    font-size: 18px;
+    text-align: justify; 
+    Smoky black - https://www.color-meanings.com/shades-of-black-color-names-html-hex-rgb-codes/
+  }
+
+*/
+
+
+// Print-only styles.
+@media print {
+  .side-bar,
+  .page-header {
+    display: none;
+  }
+  .main-content {
+    max-width: auto;
+    margin: 0em;
+  }
+}
+
+/*  .breadcrumb-nav {
+    display: none;
+  }
+*/ 
+
